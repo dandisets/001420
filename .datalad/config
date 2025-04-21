@@ -1,2 +1,4 @@
 [datalad "dataset"]
 	id = 31f0b432-6ac6-4e5c-8ccd-1169766d502d
+[dandi "dandiset"]
+	embargo-status = EMBARGOED
