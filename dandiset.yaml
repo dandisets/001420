@@ -20,6 +20,15 @@ contributor:
   roleName:
   - dcite:Funder
   schemaKey: Organization
+- affiliation:
+  - name: University of North Carolina at Chapel Hill
+    schemaKey: Affiliation
+  email: kato@email.unc.edu
+  identifier: 0000-0002-5748-3221
+  name: Kato, Hiroyuki
+  roleName:
+  - dcite:ContactPerson
+  schemaKey: Person
 dateCreated: '2025-04-21T16:46:52.519729+00:00'
 description: Linear probe recordings from the mouse inferior colliculus during click
   presentations. Unit activity data are included.
