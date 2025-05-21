@@ -61,6 +61,7 @@ contributor:
   - dcite:Funder
   schemaKey: Organization
 dateCreated: '2025-04-21T16:46:52.519729+00:00'
+datePublished: '2025-05-21T23:43:25.487563+00:00'
 description: Linear probe recordings from the mouse inferior colliculus during click
   presentations. Unit activity data are included.
 ethicsApproval: []
@@ -72,6 +73,18 @@ manifestLocation:
 - https://api.dandiarchive.org/api/dandisets/001420/versions/draft/assets/
 name: 'Cortical Circuits for the integration of short-latency auditory pathways: Inferior
   colliculus linear probe recording'
+publishedBy:
+  endDate: '2025-05-21T23:43:25.487563+00:00'
+  id: urn:uuid:a7fe0d50-a2e6-4789-a9ba-682acb7dbf23
+  name: DANDI publish
+  schemaKey: PublishActivity
+  startDate: '2025-05-21T23:43:25.487563+00:00'
+  wasAssociatedWith:
+  - id: urn:uuid:22b83b1e-dba3-4246-8e0c-2ff9e9d360f5
+    identifier: RRID:SCR_017571
+    name: DANDI API
+    schemaKey: Software
+    version: 0.1.0
 relatedResource: []
 repository: https://dandiarchive.org
 schemaKey: Dandiset
